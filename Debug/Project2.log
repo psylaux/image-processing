@@ -1,0 +1,5 @@
+﻿  Image.cpp
+  Main.cpp
+c:\users\tiffa\source\repos\project2\project2\main.cpp(168): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Project2.vcxproj -> C:\Users\tiffa\source\repos\Project2\Debug\Project2.exe
